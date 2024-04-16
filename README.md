@@ -13,7 +13,7 @@ Topological validation of imaging-based tumor subregions in isocitrate dehydroge
 - Astrocyte-like subtypes were positively correlated with IT (r = 0.256, p <.001), while mesenchymal-like subtypes were positively correlated with CTperinecrotic area (r = 0.246, p <.001).
 
 **Citation**
-Public data with a comprehensive pathology-molecular map of glioblastoma with en bloc resection is available in the Ivy Glioblastoma Atlas (http://glioblastoma.alleninstitute.org/)
+- Public data with a comprehensive pathology-molecular map of glioblastoma with en bloc resection is available in the Ivy Glioblastoma Atlas (http://glioblastoma.alleninstitute.org/)
 
 ## Dataset
 This folder contains co-registered MRI and pathologic slides data.  
