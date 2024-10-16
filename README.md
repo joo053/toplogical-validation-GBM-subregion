@@ -13,6 +13,10 @@
 - Astrocyte-like subtypes were positively correlated with IT (r = 0.256, p <.001), while mesenchymal-like subtypes were positively correlated with CTperinecrotic area (r = 0.246, p <.001)
 
 ### Citation
+- Mapping tumor habitats in isocitrate dehydrogenase -wild type glioblastoma: Integrating MRI, pathologic, and RNA data from the Ivy Glioblastoma Atlas Project (https://doi.org/10.1093/neuonc/noae161)
+```
+Ji Eun Park, Joo Young Oh, Do Hoon Park, Ho-Su Lee, Shinkyo Yoon, NakYoung Kim, Seo Young Park, Sang Woo Song, Young-Hoon Kim, Chang-Ki Hong, Jeong Hoon Kim, Ho Sung Kim, Mapping tumor habitats in isocitrate dehydrogenase -wild type glioblastoma: Integrating MRI, pathologic, and RNA data from the Ivy Glioblastoma Atlas Project, Neuro-Oncology, 2024;, noae161, https://doi.org/10.1093/neuonc/noae161
+```
 - Public data with a comprehensive pathology-molecular map of glioblastoma with en bloc resection is available in the Ivy Glioblastoma Atlas (http://glioblastoma.alleninstitute.org/).
 - This provides an en-block specimen, comprehensive pathologic map supplied by pathologists, RNA sequencing, and multiparametric MRI of diffusion-weighted and dynamic susceptibility contrast imaging.
 
